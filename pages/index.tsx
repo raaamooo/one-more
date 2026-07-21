@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useTheme } from '@/lib/theme-context';
 import Header from '@/components/Header';
+import { Style } from '@/styles/globals.css';
 
 export default function Home() {
   const { theme, toggleTheme } = useTheme();
