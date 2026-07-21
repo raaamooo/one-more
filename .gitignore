@@ -1,0 +1,14 @@
+node_modules
+.next
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.cache
+.vercel
+output
+.turbo
+coverage
+.DS_Store
+Thumbs.db
